@@ -12,3 +12,5 @@ venv/
 *.log
 connection_test.zip
 python
+
+REPORT_*.md
