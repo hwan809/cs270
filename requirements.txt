@@ -1,0 +1,14 @@
+# PC-side dependencies
+opencv-python>=4.8
+deepface>=0.0.90
+Pillow>=10.0
+tf-keras>=2.16
+SpeechRecognition>=3.10
+pyttsx3>=2.90
+pyaudio>=0.2.14
+numpy>=1.24
+bleak>=0.21
+
+# Optional: offline STT (set USE_WHISPER=True in pc/voice/listener.py)
+openai-whisper>=20231117
+soundfile>=0.12
